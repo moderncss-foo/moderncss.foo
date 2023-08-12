@@ -1,2 +1,1 @@
-# moderncss-foo
-Modern CSS Foo
+# ModernCSS.Foo
